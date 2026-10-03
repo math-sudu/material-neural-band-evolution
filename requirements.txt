@@ -1,0 +1,6 @@
+numpy==2.4.4
+scipy==1.16.2
+pandas==2.3.3
+torch==2.8.0
+gmsh==4.15.2
+scikit-fem==12.0.1
